@@ -25,8 +25,6 @@
     talonSymbols    18
     talonTextCommands    5
     talonUnixUtilities    30
-    voiceControl    1
-    voiceInPlus    1
     Check the message buffer for the full list of categories.
 "))
 
