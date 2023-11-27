@@ -7,7 +7,8 @@ Improve recall of Talon Voie commands via quiz written in elisp for interactive 
 
 ## Contents
 Quiz written with each a question as a separate interactive function.
-Invoke a question in the minibuffer with `M-x q_XXX`.
+There are 23 categories and 603 questions.
+
 
 ## Comment
 This quiz is not as elegant as the Python version, which tracks the number of correctly answered questions and randomizes the quesitons.
@@ -21,3 +22,8 @@ This quiz is not as elegant as the Python version, which tracks the number of co
 (use-package qTalonVoice
     :load-path ".emacs.d/manual-packages/qTalonVoice/")
 ```
+
+## Operation
+
+Invoke a question in the minibuffer with `M-x category/q_XXX`.
+
