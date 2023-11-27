@@ -1,4 +1,4 @@
-(defun list-qvoice-categories ():
+(defun list-qtalonvoice-categories ():
   "List the quiz categories and the number of questions in each category."
   (interactive "    Check the message buffer for the full list of categories.")
   (message
