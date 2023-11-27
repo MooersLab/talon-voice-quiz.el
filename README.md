@@ -15,7 +15,7 @@ It provides no explanations and no context.
 ## Contents
 Quiz written in elisp with each a question as a separate interactive function.
 This quiz can only be run inside of Emacs.
-There are 23 categories and 603 questions.
+There are 21 categories and 601 questions.
 
 
 ## Comment
@@ -33,5 +33,7 @@ This quiz is not as elegant as the Python version, which tracks the number of co
 
 ## Operation
 
-Invoke a question in the minibuffer with `M-x category/q_NNN` where NNN is the quiz number between 1 and 603.
+Invoke a question in the minibuffer with `M-x category/q_NNN` where NNN is the quiz number between 1 and 601.
+Run `M-x list-qvoice-categories` to display a list of categories.
+
 
