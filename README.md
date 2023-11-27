@@ -25,5 +25,5 @@ This quiz is not as elegant as the Python version, which tracks the number of co
 
 ## Operation
 
-Invoke a question in the minibuffer with `M-x category/q_XXX`.
+Invoke a question in the minibuffer with `M-x category/q_NNN` where NNN is the quiz number between 1 and 603.
 
