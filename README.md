@@ -33,17 +33,18 @@ This quiz is not as elegant as the Python version, which tracks the number of co
 
 ## Installation
 
-1. Drop file into `.emacs.d/manual-packages/qTalonVoice/`.
-2. If you use use-package, add the following to the init.el file:
+1. Drop file into `.emacs.d/manual-packages/qtalonvoice/`.
+2. If you use use-package, add the following to the `init.el` file:
 
 ```elisp
-(use-package qTalonVoice
-    :load-path ".emacs.d/manual-packages/qTalonVoice/")
+(use-package qtalonvoice
+    :load-path ".emacs.d/manual-packages/qtalonvoice/")
 ```
 
 ## Operation
 
 Invoke a question in the minibuffer with `M-x category/q_NNN` where NNN is the quiz number between 1 and 601.
+For example, `M-x talonAlphabet/q24`.
 Run `M-x list-qtalonvoice-categories` to display a list of categories.
 
 
