@@ -5,8 +5,16 @@
 ## Purpose
 Improve recall of Talon Voie commands via quiz written in elisp for interactive use in the Emacs minibuffer.
 
+## Recommeded usage
+Run through questions on a subtopic until recall is better than 90 percent and then get to work.
+
+## Disclaimer
+This is a programming tool, not an educational tool.
+It provides no explanations and no context.
+
 ## Contents
-Quiz written with each a question as a separate interactive function.
+Quiz written in elisp with each a question as a separate interactive function.
+This quiz can only be run inside of Emacs.
 There are 23 categories and 603 questions.
 
 
