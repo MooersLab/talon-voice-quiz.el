@@ -3,7 +3,7 @@
 ## version 0.1
 
 ## Purpose
-Improve recall of Talon Voie commands via quiz written in elisp for interactive use in the Emacs minibuffer.
+Improve recall of Talon Voice commands via quiz written in elisp for interactive use in the Emacs minibuffer.
 Memorization of the alphabet is not essential because the talon phonetic alphabet can be displayed in a popup menu by speaking the command `help alpabet` when talon is awake.
 Nonetheless, the Talon community recommends that this alphabet be mastered early in the process of becoming familiar with Talon.
 
