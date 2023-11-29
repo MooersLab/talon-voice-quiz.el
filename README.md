@@ -50,3 +50,7 @@ This function is not working for me at the moment.
 For now, just open the file to see the list of categories.
 
 
+## Related repositories
+- [Expand dictated contractions automatically](https://github.com/MooersLab/talon-contractions)
+- [Open favorite web pages by voice commands](https://github.com/MooersLab/talon-webpages)
+- [Master Talon Voice phonetic alphabet with interactive quiz written in Python](https://github.com/MooersLab/talon-voice-quizzes)
